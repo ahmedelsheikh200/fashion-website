@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+header{
+    height: 50px;
+    width: 100%;
+    background-color: #806BDC;
+    text-align: center;
+    display: inline-block;
+    padding-top: 25px;
+    
+    
+}
+header > h1  {
+    color: aliceblue;
+    font-size: 25px;
+    font-family: Arial, sans-serif;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    unicode-bidi: isolate;
+    border-color: inherit;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    border-color: gray;
+    white-space: normal;
+    font-variant: normal;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    unicode-bidi: isolate;
+    border-color: inherit;
+}
+#item-table {
+    width: 100%;
+    text-align: center;
+}
+table img {
+    height: 170px;
+    width: 50px;
+}
+.Shopping-container{
+    background-color: lightgrey;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#shopping-time-img {
+    margin-top: 30px;
+    width: 90vw;
+    height: 60vh;
+}
+.Sales-table {
+    width: 90vw;
+    margin: auto;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 12px;
+}
+.Sales-table-head {
+    background-color: #806BDC;
+}
+.Sales-table {
+    width: 90vw;
+    margin: auto;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 12px;
+}
+.Information {
+    width: 92vw;
+    margin: 20px;
+    font-size: 11px;
+    color: #878787;
+    list-style-position: inside;
+}
+footer{
+     height: 50px;
+      padding-top: 28px;
+       background-color: black; 
+       color: white;
+        text-align: center; }
